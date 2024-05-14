@@ -1,2 +1,4 @@
 # coffee-hue.github.io
-Portfolio for Shannonlee Gafney
+A simple portfolio for Shannonlee Gafney (myself) this is created using bootstrap 
+
+Showing off my github repos
